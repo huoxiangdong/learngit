@@ -1,4 +1,4 @@
-#git 初始化
+# GIT 初始化
 - git status 状态
 - git add .
 - git commit -m “注释”提交暂存
