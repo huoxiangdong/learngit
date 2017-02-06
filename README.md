@@ -15,5 +15,5 @@
 
 ### 远程库
 
-- git remote add origin https://github.com/huoxiangdong/JavaScript-Studynotes.git
+- git remote add origin https://github.com/huoxiangdong/JavaScript-Studynotes.git   关联远程库
 - git push -u origin master 第一次推送
